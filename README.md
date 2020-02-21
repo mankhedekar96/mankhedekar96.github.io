@@ -4,7 +4,7 @@
 Personal Projects, Assignments and Practices.
 
 - [WhereIsMyPointer](https://mankhedekar96.github.io/whereismypointer/)
-- [Chatbot FronEnd](https://mankhedekar96.github.io/chatbot/)
+- [Chatbot FronEnd (Desktop Only)](https://mankhedekar96.github.io/chatbot-frontend/)
 - [Chronograph](https://mankhedekar96.github.io/chronograph/)
 - [QuinStreetProblem](https://mankhedekar96.github.io/quinstreetproblem/)
 - [StreetCarDriver](https://mankhedekar96.github.io/street-car-driver/)
