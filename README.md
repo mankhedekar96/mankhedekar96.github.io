@@ -8,4 +8,4 @@ Personal Projects, Assignments and Practices.
 - [Chronograph](https://mankhedekar96.github.io/chronograph/)
 - [QuinStreetProblem](https://mankhedekar96.github.io/quinstreetproblem/)
 - [StreetCarDriver](https://mankhedekar96.github.io/street-car-driver/)
-- [Crazy Selfies](https://mankhedekar96.github.io/crazy-sefies/)
+- [Crazy Selfies](https://mankhedekar96.github.io/crazy-selfies/)
