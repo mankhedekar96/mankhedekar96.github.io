@@ -10,3 +10,4 @@ Personal Projects, Assignments and Practices.
 - [StreetCarDriver](https://mankhedekar96.github.io/street-car-driver/)
 - [Crazy Selfies](https://mankhedekar96.github.io/crazy-selfies/)
 - [Snakes and Ladders](https://mankhedekar96.github.io/snakes-and-ladders/)
+- [Mail Bird](https://mankhedekar96.github.io/mail-bird/)
